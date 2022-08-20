@@ -1,0 +1,21 @@
+﻿  game.cpp
+D:\game_project\snake_game\snake_game\game.cpp(74,104): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\game_project\snake_game\snake_game\game.cpp(74,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\game_project\snake_game\snake_game\game.cpp(77,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  snake_game.vcxproj -> D:\game_project\snake_game\Debug\snake_game.exe
